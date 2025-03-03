@@ -1,7 +1,12 @@
 .{
     .name = "xitstarter",
     .version = "0.0.0",
-    .dependencies = .{},
+    .dependencies = .{
+        .xit = .{
+            .url = "git+https://github.com/radarroark/xit#0f40a258b9e69bafc7729a5a95449d6f3035f2ff",
+            .hash = "12207bdd3b32ca4ea2102978b4f9a9857d30df21181f82f2025d41a4dbcbcf08d51c",
+        },
+    },
     .paths = .{
         "build.zig",
         "build.zig.zon",
