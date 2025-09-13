@@ -3,8 +3,8 @@
     .version = "0.0.0",
     .dependencies = .{
         .xit = .{
-            .url = "git+https://github.com/radarroark/xit#19bd06e36f8333eecf98fdc5db78d669a11c587b",
-            .hash = "xit-0.0.0-Ub3nDPLCSQGAgy1uyDv9k9RwRpfZW6W5rZn-YlYoznV2",
+            .url = "git+https://github.com/radarroark/xit#34695c9f87c5c5eb4650fc55c04a23dfadaa64a6",
+            .hash = "xit-0.0.0-Ub3nDMXvSwELwI9Z7Jeu1H5sxhVIFlan-3uGSYb9fBKs",
         },
     },
     .paths = .{
